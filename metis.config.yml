@@ -1,0 +1,4 @@
+project_token: c786c9861135ca16eb3badb4
+name: turi_test
+language: python
+entrypoint: main.py
